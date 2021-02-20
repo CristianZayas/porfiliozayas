@@ -1,0 +1,9 @@
+.btn-primary{
+    background-color: #ffd369;
+  }
+  .form-control {
+    -webkit-box-shadow: 0px 10px 13px -7px #4d4b4b, 5px 5px 0px 5px rgba(0,0,0,0);   
+    box-shadow: 0px 10px 13px -7px #5e5d5d, 5px 5px 0px 5px rgba(0,0,0,0);
+  }
+
+  
